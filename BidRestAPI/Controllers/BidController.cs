@@ -9,7 +9,7 @@ namespace BidRestAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-   
+    [Authorize]
     public class BidController : ControllerBase
     {
         private readonly IBidService _bidService;

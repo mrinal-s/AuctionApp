@@ -12,7 +12,7 @@ namespace BidRestAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-   
+    [Authorize]
     public class AuctionController : ControllerBase
     {
         private readonly IAuctionService _auctionService;

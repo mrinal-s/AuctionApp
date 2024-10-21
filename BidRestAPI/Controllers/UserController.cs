@@ -2,6 +2,7 @@
 using BidRestAPI.Model;
 using BusinessLogic;
 using DataRepository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Models;
 
@@ -10,6 +11,7 @@ namespace BidRestAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
