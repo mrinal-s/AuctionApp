@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "El6rbnlsfKQ=",
+  "dgSpecHash": "umr7/t0D+Go=",
   "success": true,
-  "projectFilePath": "D:\\BidApp\\BidRestAPI\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irisuser\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\irisuser\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",

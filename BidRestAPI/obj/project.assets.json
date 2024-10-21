@@ -4081,11 +4081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BidApp\\BidRestAPI\\BidRestAPI\\BidRestAPI.csproj",
+      "projectUniqueName": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BidRestAPI\\BidRestAPI.csproj",
       "projectName": "BidRestAPI",
-      "projectPath": "D:\\BidApp\\BidRestAPI\\BidRestAPI\\BidRestAPI.csproj",
+      "projectPath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BidRestAPI\\BidRestAPI.csproj",
       "packagesPath": "C:\\Users\\irisuser\\.nuget\\packages\\",
-      "outputPath": "D:\\BidApp\\BidRestAPI\\BidRestAPI\\obj\\",
+      "outputPath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BidRestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4108,11 +4108,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\BidApp\\BidRestAPI\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "D:\\BidApp\\BidRestAPI\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "D:\\BidApp\\BidRestAPI\\DataRepository\\DataRepository.csproj": {
-              "projectPath": "D:\\BidApp\\BidRestAPI\\DataRepository\\DataRepository.csproj"
+            "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\DataRepository\\DataRepository.csproj": {
+              "projectPath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\DataRepository\\DataRepository.csproj"
             }
           }
         }

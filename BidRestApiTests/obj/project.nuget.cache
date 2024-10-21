@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kN6jbPK0tp4=",
+  "dgSpecHash": "yNsmbLn+A5A=",
   "success": true,
-  "projectFilePath": "D:\\BidApp\\BidRestAPI\\BidRestApiTests\\BidRestApiTests.csproj",
+  "projectFilePath": "C:\\Users\\irisuser\\source\\repos\\AuctionApp\\BidRestApiTests\\BidRestApiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irisuser\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\irisuser\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
