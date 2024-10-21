@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IVMvaRvf9wZZT0QbAhxjYxsFLV8IGeQrOTtavF2LhAw=",
+  "Source": "BidRestAPI",
+  "BasePath": "_content/BidRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
